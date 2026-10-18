@@ -1,0 +1,11 @@
+Model Information:
+* title:	Toyota Corolla
+* source:	https://sketchfab.com/3d-models/toyota-corolla-723da379600d4fb9a3e9687e99ca68d5
+* author:	Nieve5677 (https://sketchfab.com/niev)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Toyota Corolla" (https://sketchfab.com/3d-models/toyota-corolla-723da379600d4fb9a3e9687e99ca68d5) by Nieve5677 (https://sketchfab.com/niev) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
